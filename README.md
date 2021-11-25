@@ -1,5 +1,7 @@
 # Chatty!
 
+![Chatty Messenger App](/public/chatty-image.png)
+
 ## Introduction
 
 Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
